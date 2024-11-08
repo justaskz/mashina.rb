@@ -1,0 +1,7 @@
+---
+init_files:
+  - aliases.sh
+  - env.sh
+packages:
+  - name: starship
+    version: 1.20.1

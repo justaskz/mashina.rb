@@ -1,0 +1,9 @@
+---
+fzf:
+  github: junegunn/fzf
+helix:
+  github: helix-editor/helix
+starship:
+  github: starship/starship
+tmux:
+  github: tmux/tmux
