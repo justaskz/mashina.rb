@@ -16,5 +16,5 @@ Gem::Specification.new do |spec|
 
   spec.files       = Dir['lib/**/*.rb']
   spec.bindir      = 'bin'
-  spec.executables << 'mashina'
+  spec.executables << 'msh'
 end

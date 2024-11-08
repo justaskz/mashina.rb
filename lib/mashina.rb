@@ -14,7 +14,7 @@ module Mashina
     end
 
     def mashina_config_dir
-      "#{xdg_config_home}/mashina"
+      "#{xdg_config_home}/mashina.rb"
     end
 
     def mashina_tmp_download_dir
